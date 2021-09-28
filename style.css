@@ -1,0 +1,22 @@
+#toggleLogin:hover{
+    cursor: pointer;
+}
+#error{
+    display:none;
+}
+.course{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin:5px;
+}
+.show1{
+    border:1px black solid;
+    width:105px;
+    padding-right: 0;
+    height: auto;
+}
+textarea{
+    width:500px;
+    height: 200px;
+    resize:none;
+}
